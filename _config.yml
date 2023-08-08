@@ -20,7 +20,7 @@ title                    : "swap-stack"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Swapnila Kavishwar"
-description              : "An amazing website."
+description              : "My amazing website."
 url                      : "https://swap-stack.github.io" # the base hostname & protocol for your site e.g. "https://swap-stack.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "swap-stack-swap-stack.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
